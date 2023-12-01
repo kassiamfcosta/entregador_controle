@@ -1,6 +1,6 @@
 # entregador_controle
 Controle de entregadores.
-### API para gerenciamento de Entregadores
+### API REST para gerenciamento de Entregadores
 
 ## Instruções para colocar em operação
 
@@ -36,19 +36,19 @@ Para listar todos os entregadores
 	
 	- Método: GET
 	
-Para mostrar apenas um entregadores
+Para mostrar apenas um entregador
 	
 	- URI: http://localhost:8080/entregador/{id}
 	
 	- Método: GET
 	
-Para excluir um entregadores
+Para excluir um entregador
 	
 	- URI: http://localhost:8080/entregador/{id}
 	
 	- Método: DELETE
 
-Para alterar um entregadores
+Para alterar um entregador
 	
 	- URI: http://localhost:8080/entregador/{id}
 	
